@@ -11,7 +11,7 @@ As personalized learning experiences gain momentum, CourseMate simplifies the co
 ## Team Members
 
 **TEAM ID:** `C242-PR594`  
-**TEMA:** `Empowering Minds: A holistic approach to education and personal development`
+**Themes/Case:** `Empowering Minds: A holistic approach to education and personal development`
 | Bangkit ID       |           Name            |   Learning Path    | Status |
 |:----------------:|---------------------------|:------------------:|:---------------------------------|
 | M640B4KY0793      | Bagus Angkasawan Sumantri Putra  | Machine Learning   | Active |
