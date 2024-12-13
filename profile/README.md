@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/CourseMateLogo.png" width="250">
+  <img src="./assets/CourseMateLogo.png" width="250">
 </p>
 
 # CourseMate - Personalized Course Recommendation Platform
